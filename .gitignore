@@ -1,0 +1,5 @@
+*.zip
+.ipynb_checkpoints/
+data/
+celeba_gen_images/
+checkpoints/
